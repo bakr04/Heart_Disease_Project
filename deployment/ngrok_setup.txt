@@ -1,0 +1,16 @@
+# Ngrok Setup for Heart Disease Streamlit App
+
+1. Install ngrok (if not already installed):
+   [https://ngrok.com/download](https://ngrok.com/download)
+
+2. Start your Streamlit app locally:
+   streamlit run ../ui/app.py
+
+3. In a new terminal, run ngrok to expose the port:
+   ngrok http 8503
+
+4. Copy the "Forwarding" URL from ngrok console.
+   This URL can be shared to access your app online.
+   https://1431a59b5b19.ngrok-free.app
+
+5. Done! Streamlit app is now live via the ngrok link.
