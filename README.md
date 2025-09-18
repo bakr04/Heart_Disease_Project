@@ -166,6 +166,11 @@ Multiple classification models were trained and evaluated. The **Random Forest C
 |                  | Adjusted Rand Index    | 0.429   |
 |                  | Normalized Mutual Info | 0.339   |
 |                  | Clustering Accuracy    | 82.8%   |
+|                                                     |
+| **KMeans (K=15)** | Silhouette Score      | 0.512   |
+|                  | Adjusted Rand Index    | 0.063   |
+|                  | Normalized Mutual Info | 0.182   |
+|                                                     |
 | **Hierarchical** | Adjusted Rand Index    | 0.363   |
 |                  | Adjusted Mutual Info   | 0.296   |
 |                  | Silhouette Score       | 0.424   |
