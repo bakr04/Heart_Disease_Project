@@ -185,7 +185,6 @@ Potential areas for future development include:
 
 * **Advanced Modeling:** Experiment with deep learning architectures (e.g., neural networks).
 * **Scalability:** Train the models on a larger, more diverse dataset.
-* **Cloud Deployment:** Host the application on a cloud platform like AWS or Heroku for 24/7 availability.
 
 ---
 
