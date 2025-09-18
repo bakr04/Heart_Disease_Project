@@ -1,7 +1,7 @@
 # 🩺 Heart Disease Prediction Project
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
+  <img src="https://img.shields.io/badge/Python-3.13.7%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
   <img src="https://img.shields.io/badge/License-Apache-yellow?style=for-the-badge" alt="License: Apache License">
 </p>
 
