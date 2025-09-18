@@ -64,6 +64,7 @@ The repository is organized as follows:
 ├── 📄 LICENSE
 ├── 📄 README.md
 └── 📄 requirements.txt
+/
 
 ---
 
