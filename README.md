@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License: Apache License">
+  <img src="https://img.shields.io/badge/License-Apache-yellow?style=for-the-badge" alt="License: Apache License">
 </p>
 
 > A comprehensive machine learning project that predicts the probability of heart disease from clinical data. This serves as a capstone project for the AI and Machine Learning program at Sprints, demonstrating an end-to-end ML workflow.
