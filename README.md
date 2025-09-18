@@ -25,46 +25,83 @@ This repository walks through the entire machine learning pipeline, including:
 
 The repository is organized as follows:
 
-/
-├── 📂 data/
-│   ├── 📄 final_processing_afterfeatureselection.csv
-│   ├── 📄 heart_disease.csv
-│   ├── 📄 pca-processed_heart_disease.csv
-│   └── 📄 preprocessed_heart_disease.csv
-├── 📂 deployment/
-│   └── 📄 ngrok_setup.txt
-├── 📂 models/
+/ 
+
+├── 📂 data/ 
+
+│   ├── 📄 final_processing_afterfeatureselection.csv 
+
+│   ├── 📄 heart_disease.csv 
+
+│   ├── 📄 pca-processed_heart_disease.csv 
+
+│   └── 📄 preprocessed_heart_disease.csv 
+
+├── 📂 deployment/ 
+
+│   └── 📄 ngrok_setup.txt 
+
+├── 📂 models/ 
+
 │   ├── 📦 Decision_Tree_optimized.pkl
-│   ├── 📦 LinearSVC_optimized.pkl
-│   ├── 📦 Logistic_Regression_optimized.pkl
-│   ├── 📦 Random_Forest_optimized.pkl
-│   ├── 📦 SVM_optimized.pkl
-│   ├── 📦 minmax_scaler.pkl
-│   ├── 📦 onehot_encoder.pkl
+
+│   ├── 📦 LinearSVC_optimized.pkl 
+
+│   ├── 📦 Logistic_Regression_optimized.pkl 
+
+│   ├── 📦 Random_Forest_optimized.pkl 
+
+│   ├── 📦 SVM_optimized.pkl 
+
+│   ├── 📦 minmax_scaler.pkl 
+
+│   ├── 📦 onehot_encoder.pkl 
+
 │   ├── 📦 pca.pkl
+
 │   ├── 📦 supervised_decisiontree.pkl
+
 │   ├── 📦 supervised_linearsvc.pkl
+
 │   ├── 📦 supervised_logisticregression.pkl
+
 │   ├── 📦 supervised_randomforest.pkl
+
 │   ├── 📦 supervised_svc.pkl
+
 │   ├── 📦 unsupervised_hierarchicalclustering.pkl
+
 │   └── 📦 unsupervised_kmeans.pkl
+
 ├── 📂 notebooks/
+
 │   ├── 📜 01_data_preprocessing.ipynb
+
 │   ├── 📜 02_pca_analysis.ipynb
+
 │   ├── 📜 03_feature_selection.ipynb
+
 │   ├── 📜 04_supervised_learning.ipynb
+
 │   ├── 📜 05_unsupervised_learning.ipynb
+
 │   └── 📜 06_hyperparameter_tuning.ipynb
+
 ├── 📂 results/
+
 │   └── 📊 evaluation_metrics.txt
+
 ├── 📂 ui/
+
 │   └── 🚀 app.py
+
 ├── 📄 .gitignore
+
 ├── 📄 LICENSE
+
 ├── 📄 README.md
+
 └── 📄 requirements.txt
-***
 
 ---
 
