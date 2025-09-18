@@ -64,7 +64,7 @@ The repository is organized as follows:
 ├── 📄 LICENSE
 ├── 📄 README.md
 └── 📄 requirements.txt
-
+***
 
 ---
 
@@ -151,4 +151,4 @@ Potential areas for future development include:
 ### ► Author
 
 **Mostafa Bakr**
-# Linkedin: {www.linkedin.com/in/bakr04}
+Linkedin: {www.linkedin.com/in/bakr04}
