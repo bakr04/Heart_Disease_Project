@@ -123,8 +123,8 @@ To get the project up and running locally, follow these simple steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/nesringamal/Heart_Disease_Project.git](https://github.com/nesringamal/Heart_Disease_Project.git)
-    cd Heart_Disease_Project
+    gh repo clone bakr04/Heart_Disease_Project
+    cd ui
     ```
 
 2.  **Install the required dependencies:**
